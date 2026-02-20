@@ -1,0 +1,20 @@
+{
+  "name": "playwrigth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0",
+    "allure-playwright": "^3.4.5"
+  },
+  "dependencies": {
+    "allure": "^3.2.0"
+  }
+}
